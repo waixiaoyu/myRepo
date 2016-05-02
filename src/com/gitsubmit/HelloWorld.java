@@ -9,9 +9,6 @@ package com.gitsubmit;
  */
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("123xxxxxxxxxxxxxwerwerxxxxxxx");
-		System.out.println("123xxxxxxxxxxxxxwerwerxxxxxxx");
-		System.out.println("123xxxxxxxxxxxxxwerwerxxxxxxx");
-		System.out.println("123xxxxxxxxxxxxxwerwerxxxxxxx");
+		System.out.println("helloWorld");
 	}
 }
